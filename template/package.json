@@ -42,6 +42,9 @@
     "copy-webpack-plugin": "^4.5.1",
     "css-loader": "^0.28.11",
     "cssnano": "^3.10.0",
+    "less":"^3.0.4",
+    "less-loader":"^4.1.0",
+    "mpvue-wxparse":"^0.6.5",
     {{#lint}}
     "eslint": "^4.19.1",
     "eslint-friendly-formatter": "^4.0.1",
